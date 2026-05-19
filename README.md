@@ -172,9 +172,17 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 ## Contributors
 
-Developed by Amrit and Rishav
+**Amrit Mundlapudi** - [@Amrit-R-M](https://github.com/Amrit-R-M)  
+- Firmware architecture & development
+- AI integration (Groq, Whisper, TTS)
+- Display manager implementation
+- System design
 
-Hardware integration partner: Rishav Raj
+**Rishav Raj** - [@RishavRaj379](https://github.com/RishavRaj379)  
+- Hardware selection & procurement
+- Electronics assembly
+- Component testing
+- Hardware documentation
 
 ---
 
